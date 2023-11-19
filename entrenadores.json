@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "655935e6578daad4585ccce6"
+  },
+  "nombre": "Jurgen",
+  "apellido": "Klopp",
+  "telefonoContacto": "300564256",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "6559365a578daad4585ccce7"
+  },
+  "nombre": "P",
+  "apellido": "Guardiola",
+  "telfonoContacto": "3115268414",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "655936ae578daad4585ccce8"
+  },
+  "nombre": "Mauricio",
+  "apellido": "Pochettino",
+  "telfonoContacto": "3205687421",
+  "_idEquipos": "6559227843887f8325a9ea2e"
+},{
+  "_id": {
+    "$oid": "65593711578daad4585ccce9"
+  },
+  "nombre": "Mikel",
+  "apellido": "Arteta",
+  "telfonoContacto": "3",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "65593768578daad4585cccea"
+  },
+  "nombre": "Ange",
+  "apellido": "Postecoglou",
+  "telfonoContacto": "3202145632",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+}]

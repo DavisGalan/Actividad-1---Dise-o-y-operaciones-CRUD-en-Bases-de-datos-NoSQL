@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "65593f65578daad4585cccf2"
+  },
+  "_idEncuentroDeportivo": "65593cfc578daad4585cccf0",
+  "golesLocal": 3,
+  "golesVisitante": 1,
+  "equipoGanador": "Liverpool",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65593fbd578daad4585cccf3"
+  },
+  "_idEncuentroDeportivo": "65593d88578daad4585cccf1",
+  "golesLocal": 2,
+  "golesVisitante": 4,
+  "equipoGanador": "Arsenal",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "6559414c578daad4585cccf5"
+  },
+  "_idEncuentroDeportivo": "655940c7578daad4585cccf4",
+  "golesLocal": 2,
+  "golesVisitante": 3,
+  "equipoGanador": "Liverpol",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "655942e0578daad4585cccf7"
+  },
+  "_idEncuentroDeportivo": "6559427b578daad4585cccf6",
+  "golesLocal": 4,
+  "golesVisitante": 3,
+  "equipoGanador": ",Manchester City",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65594a99578daad4585cccfa"
+  },
+  "_idEncuentroDeportivo": "65594980578daad4585cccf8",
+  "golesLocal": 2,
+  "golesVisitante": 0,
+  "equipoGanador": "Liverpool",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65594acc578daad4585cccfb"
+  },
+  "_idEncuentroDeportivo": "65594a42578daad4585cccf9",
+  "golesLocal": 2,
+  "golesVisitante": 2,
+  "equipoGanador": "Empate",
+  "puntosPartido": 0
+},{
+  "_id": {
+    "$oid": "65594c39578daad4585cccfe"
+  },
+  "_idEncuentroDeportivo": "65594b80578daad4585cccfc",
+  "golesLocal": 1,
+  "golesVisitante": 2,
+  "equipoGanador": "Liverpool",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65594c7f578daad4585cccff"
+  },
+  "_idEncuentroDeportivo": "65594be9578daad4585cccfd",
+  "golesLocal": 3,
+  "golesVisitante": 1,
+  "equipoGanador": "Arsenal",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65594e27578daad4585ccd02"
+  },
+  "_idEncuentroDeportivo": "65594d36578daad4585ccd00",
+  "golesLocal": 2,
+  "golesVisitante": 1,
+  "equipoGanador": "Manchester City",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "65594e61578daad4585ccd03"
+  },
+  "_idEncuentroDeportivo": "65594ddc578daad4585ccd01",
+  "golesLocal": 1,
+  "golesVisitante": 0,
+  "equipoGanador": "Tottenham",
+  "puntosPartido": 3
+},{
+  "_id": {
+    "$oid": "655a345afff3c5752393cc7d"
+  },
+  "_idencuentroDeportivo": "655a324cfff3c5752393cc7b",
+  "golesLocal": "2",
+  "golesVisitante": "2",
+  "equipoGanador": "Empate",
+  "puntosPartido": "1"
+},{
+  "_id": {
+    "$oid": "655a3493fff3c5752393cc7e"
+  },
+  "_idencuentroDeportivo": "655a32d0fff3c5752393cc7c",
+  "golesLocal": "1",
+  "golesVisitante": "0",
+  "equipoGanador": "Arsenal",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3836fff3c5752393cc81"
+  },
+  "_idencuentroDeportivo": "655a3549fff3c5752393cc7f",
+  "golesLocal": "3",
+  "golesVisitante": "2",
+  "equipoGanador": "Liverpool",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3884fff3c5752393cc82"
+  },
+  "_idencuentroDeportivo": "655a36f6fff3c5752393cc80",
+  "golesLocal": "3",
+  "golesVisitante": "4",
+  "equipoGanador": "Manchester City",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3ab4fff3c5752393cc85"
+  },
+  "_idencuentroDeportivo": "655a38d8fff3c5752393cc83",
+  "golesLocal": "2",
+  "golesVisitante": "2",
+  "equipoGanador": "Empate",
+  "puntosPartido": "1"
+},{
+  "_id": {
+    "$oid": "655a3aeafff3c5752393cc86"
+  },
+  "_idencuentroDeportivo": "655a3a59fff3c5752393cc84",
+  "golesLocal": "2",
+  "golesVisitante": "1",
+  "equipoGanador": "Manchester City",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3bf6fff3c5752393cc89"
+  },
+  "_idencuentroDeportivo": "655a3b5afff3c5752393cc87",
+  "golesLocal": "1",
+  "golesVisitante": "0",
+  "equipoGanador": "Liverpool",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3c20fff3c5752393cc8a"
+  },
+  "_idencuentroDeportivo": "655a3bbafff3c5752393cc88",
+  "golesLocal": "3",
+  "golesVisitante": "3",
+  "equipoGanador": "Empate",
+  "puntosPartido": "1"
+},{
+  "_id": {
+    "$oid": "655a3d3dfff3c5752393cc8d"
+  },
+  "_idencuentroDeportivo": "655a3c9afff3c5752393cc8b",
+  "golesLocal": "2",
+  "golesVisitante": "3",
+  "equipoGanador": "Manchester City",
+  "puntosPartido": "3"
+},{
+  "_id": {
+    "$oid": "655a3db2fff3c5752393cc8e"
+  },
+  "_idencuentroDeportivo": "655a3d00fff3c5752393cc8c",
+  "golesLocal": "1",
+  "golesVisitante": "2",
+  "equipoGanador": "Tottenham",
+  "puntosPartido": "3"
+}]

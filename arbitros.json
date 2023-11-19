@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6559384b578daad4585ccceb"
+  },
+  "nombre": "Paul",
+  "apellido": "Tierney",
+  "telfonoContacto": "3209847589"
+},{
+  "_id": {
+    "$oid": "65593883578daad4585cccec"
+  },
+  "nombre": "Anthony",
+  "apellido": "Taylor",
+  "telfonoContacto": "3158624532"
+},{
+  "_id": {
+    "$oid": "6559395d578daad4585ccced"
+  },
+  "nombre": "Michael",
+  "apellido": "Salisbury",
+  "telfonoContacto": "3185240260"
+},{
+  "_id": {
+    "$oid": "65593985578daad4585cccee"
+  },
+  "nombre": "Sergio",
+  "apellido": "Maerk",
+  "telfonoContacto": "3004238921"
+},{
+  "_id": {
+    "$oid": "655939ac578daad4585cccef"
+  },
+  "nombre": "Ivan",
+  "apellido": "Hernandez",
+  "telfonoContacto": "3212367526"
+}]

@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "65593cfc578daad4585cccf0"
+  },
+  "_idEquipoL": "655920d343887f8325a9ea2c",
+  "_idEquipoV": "6559221d43887f8325a9ea2d",
+  "_idArbitro": "6559384b578daad4585ccceb",
+  "equipoLocal": "Liverpool",
+  "equipoVisitante": "Manchester City",
+  "fechaEncuentro": "10/2/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "65593d88578daad4585cccf1"
+  },
+  "_idEquipoL": "6559227843887f8325a9ea2e",
+  "_idEquipoV": "6559250f53f37c02ddfdc8bc",
+  "_idArbitro": "65593883578daad4585cccec",
+  "equipoLocal": "Chesea",
+  "equipoVisitante": "Arsenal",
+  "fechaEncuentro": "10/2/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "655940c7578daad4585cccf4"
+  },
+  "_idEquipoL": "655925d253f37c02ddfdc8bd",
+  "_idEquipoV": "655920d343887f8325a9ea2c",
+  "_idArbitro": "6559395d578daad4585ccced",
+  "equipoLocal": "Tottenham",
+  "equipoVisitante": "Liverpool",
+  "fechaEncuentro": "10/9/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "6559427b578daad4585cccf6"
+  },
+  "_idEquipoL": "6559221d43887f8325a9ea2d",
+  "_idEquipoV": "6559227843887f8325a9ea2e",
+  "_idArbitro": "65593985578daad4585cccee",
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Chelsea",
+  "fechaEncuentro": "10/9/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "65594980578daad4585cccf8"
+  },
+  "_idEquipoL": "655920d343887f8325a9ea2c",
+  "_idEquipoV": "6559250f53f37c02ddfdc8bc",
+  "_idArbitro": "655939ac578daad4585cccef",
+  "equipoLocal": ",Liverpool",
+  "equipoVisitante": "Arsenal",
+  "fechaEncuentro": "10/17/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "65594a42578daad4585cccf9"
+  },
+  "_idEquipoL": "655925d253f37c02ddfdc8bd",
+  "_idEquipoV": "6559221d43887f8325a9ea2d",
+  "_idArbitro": "65593985578daad4585cccee",
+  "equipoLocal": "Tottenham",
+  "equipoVisitante": "Manchester City",
+  "fechaEncuentro": "10/17/2023",
+  "horaEncuentro": "11:00",
+  "finalEncuentro": "13:00"
+},{
+  "_id": {
+    "$oid": "65594b80578daad4585cccfc"
+  },
+  "_idEquipoL": "6559227843887f8325a9ea2e",
+  "_idEquipoV": "655920d343887f8325a9ea2c",
+  "_idArbitro": "6559384b578daad4585ccceb",
+  "equipoLocal": "Chelsea",
+  "equipoVisitante": "Liverpool",
+  "fechaEncuentro": "10/24/2023",
+  "horaEncuentro": "14:00",
+  "finalEncuentro": "16:00"
+},{
+  "_id": {
+    "$oid": "65594be9578daad4585cccfd"
+  },
+  "_idEquipoL": "6559250f53f37c02ddfdc8bc",
+  "_idEquipoV": "655925d253f37c02ddfdc8bd",
+  "_idArbitro": "65593883578daad4585cccec",
+  "equipoLocal": "Arsenal",
+  "equipoVisitante": "Tottenham",
+  "fechaEncuentro": "10/24/2023",
+  "horaEncuentro": "14:00",
+  "finalEncuentro": "16:00"
+},{
+  "_id": {
+    "$oid": "65594d36578daad4585ccd00"
+  },
+  "_idEquipoL": "6559221d43887f8325a9ea2d",
+  "_idEquipoV": "6559250f53f37c02ddfdc8bc",
+  "_idArbitro": "65593985578daad4585cccee",
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Arsenal",
+  "fechaEncuentro": "10/31/2023",
+  "horaEncuentro": "14:00",
+  "finalEncuentro": "16:00"
+},{
+  "_id": {
+    "$oid": "65594ddc578daad4585ccd01"
+  },
+  "_idEquipoL": "655925d253f37c02ddfdc8bd",
+  "_idEquipoV": "6559227843887f8325a9ea2e",
+  "_idArbitro": "655939ac578daad4585cccef",
+  "equipoLocal": "Tottenham",
+  "equipoVisitante": "Chelsea",
+  "fechaEncuentro": "10/31/2023",
+  "horaEncuentro": "14:00",
+  "finalEncuentro": "16:00"
+},{
+  "_id": {
+    "$oid": "655a324cfff3c5752393cc7b"
+  },
+  "_idequipoL": "6559221d43887f8325a9ea2d",
+  "_idequipoV": "655920d343887f8325a9ea2c",
+  "_idArbitro": "655939ac578daad4585cccef",
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Liverpool",
+  "fechaEncuentro": "11/7/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a32d0fff3c5752393cc7c"
+  },
+  "_idequipoL": "6559250f53f37c02ddfdc8bc",
+  "_idequipoV": "6559227843887f8325a9ea2e",
+  "_idArbitro": "6559395d578daad4585ccced",
+  "equipoLocal": "Arsenal",
+  "equipoVisitante": "Chelsea",
+  "fechaEncuentro": "11/7/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3549fff3c5752393cc7f"
+  },
+  "_idequipoL": "655920d343887f8325a9ea2c",
+  "_idequipoV": "655925d253f37c02ddfdc8bd",
+  "_idArbitro": "655939ac578daad4585cccef",
+  "equipoLocal": "Liverpool",
+  "equipoVisitante": "Tottenham",
+  "fechaEncuentro": "11/11/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a36f6fff3c5752393cc80"
+  },
+  "_idequipoL": "6559227843887f8325a9ea2e",
+  "_idequipoV": "6559221d43887f8325a9ea2d",
+  "_idArbitro": "65593883578daad4585cccec",
+  "equipoLocal": "Chelsea",
+  "equipoVisitante": "Manchester City",
+  "fechaEncuentro": "11/11/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a38d8fff3c5752393cc83"
+  },
+  "_idequipoL": "6559250f53f37c02ddfdc8bc",
+  "_idequipoV": "655920d343887f8325a9ea2c",
+  "_idArbitro": "65593985578daad4585cccee",
+  "equipoLocal": "Arsenal",
+  "equipoVisitante": "Liverpool",
+  "fechaEncuentro": "11/15/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3a59fff3c5752393cc84"
+  },
+  "_idequipoL": "6559221d43887f8325a9ea2d",
+  "_idequipoV": "655925d253f37c02ddfdc8bd",
+  "_idArbitro": "65593883578daad4585cccec",
+  "equipoLocal": "Manchester City",
+  "equipoVisitante": "Tottenham",
+  "fechaEncuentro": "11/15/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3b5afff3c5752393cc87"
+  },
+  "_idequipoL": "655920d343887f8325a9ea2c",
+  "_idequipoV": "6559227843887f8325a9ea2e",
+  "_idArbitro": "655939ac578daad4585cccef",
+  "equipoLocal": "Liverpool",
+  "equipoVisitante": "Chelsea",
+  "fechaEncuentro": "11/19/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3bbafff3c5752393cc88"
+  },
+  "_idequipoL": "655925d253f37c02ddfdc8bd",
+  "_idequipoV": "6559250f53f37c02ddfdc8bc",
+  "_idArbitro": "65593883578daad4585cccec",
+  "equipoLocal": "Tottenham",
+  "equipoVisitante": "Arsenal",
+  "fechaEncuentro": "11/19/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3c9afff3c5752393cc8b"
+  },
+  "_idequipoL": "6559250f53f37c02ddfdc8bc",
+  "_idequipoV": "6559221d43887f8325a9ea2d",
+  "_idArbitro": "6559384b578daad4585ccceb",
+  "equipoLocal": "Arsenal",
+  "equipoVisitante": "Manchester City",
+  "fechaEncuentro": "11/21/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+},{
+  "_id": {
+    "$oid": "655a3d00fff3c5752393cc8c"
+  },
+  "_idequipoL": "6559227843887f8325a9ea2e",
+  "_idequipoV": "655925d253f37c02ddfdc8bd",
+  "_idArbitro": "65593985578daad4585cccee",
+  "equipoLocal": "Chelsea",
+  "equipoVisitante": "Tottenham",
+  "fechaEncuentro": "11/21/2023",
+  "horaEncuentro": "09:00",
+  "finalEncuentro": "11:00"
+}]

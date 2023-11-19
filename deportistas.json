@@ -1,0 +1,316 @@
+[{
+  "_id": {
+    "$oid": "65591ade43887f8325a9ea23"
+  },
+  "nombre": "Luis",
+  "apellido": "Diaz",
+  "NoCamisa": 7,
+  "posicion": "Delantero",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591b5043887f8325a9ea24"
+  },
+  "nombre": "Mohamed",
+  "apellido": "Salah",
+  "NoCamisa": "11",
+  "posicion": "Delantero",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591b8443887f8325a9ea25"
+  },
+  "nombre": "Darwin",
+  "apellido": "Nuñez",
+  "NoCamisa": "9",
+  "posicion": "Delantero",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591bb843887f8325a9ea26"
+  },
+  "nombre": "Diego",
+  "apellido": "Jota",
+  "NoCamisa": "20",
+  "posicion": "Delantero",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591c3743887f8325a9ea27"
+  },
+  "nombre": "Trent",
+  "apellido": "Alexander-Arnold",
+  "NoCamisa": "66",
+  "posicion": "Lateral Derecho",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591c9343887f8325a9ea28"
+  },
+  "nombre": "Konstantinos",
+  "apellido": "Tsimikas",
+  "NoCamisa": "21",
+  "posicion": "Lateral Izquierdo",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591ccc43887f8325a9ea29"
+  },
+  "nombre": "Virgil",
+  "apellido": "Van Dijk",
+  "NoCamisa": "4",
+  "posicion": "Defensa",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591cf943887f8325a9ea2a"
+  },
+  "nombre": "Joel",
+  "apellido": "Matip",
+  "NoCamisa": "32",
+  "posicion": "Defensa",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "65591d4b43887f8325a9ea2b"
+  },
+  "nombre": "Alisson",
+  "apellido": "Baker",
+  "NoCamisa": "1",
+  "posicion": "Arquero",
+  "_idEquipos": "655920d343887f8325a9ea2c"
+},{
+  "_id": {
+    "$oid": "655926db53f37c02ddfdc8be"
+  },
+  "nombre": "Erling",
+  "apellido": "Halland",
+  "NoCamisa": "9",
+  "posicion": "Delantero",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "655926fa53f37c02ddfdc8bf"
+  },
+  "nombre": "Julian",
+  "apellido": "Alvarez",
+  "NoCamisa": "19",
+  "posicion": "Delantero",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "6559276f53f37c02ddfdc8c0"
+  },
+  "nombre": "Phil",
+  "apellido": "Foden",
+  "NoCamisa": "47",
+  "posicion": "Centrocampista",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "655927ad53f37c02ddfdc8c1"
+  },
+  "nombre": "Jeremy",
+  "apellido": "Doku",
+  "NoCamisa": "11",
+  "posicion": "Delantero",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "655927f353f37c02ddfdc8c2"
+  },
+  "nombre": "Kyle",
+  "apellido": "Walker",
+  "NoCamisa": "2",
+  "posicion": "Defensa",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "6559282b53f37c02ddfdc8c3"
+  },
+  "nombre": "Manuel",
+  "apellido": "Akanji",
+  "NoCamisa": "25",
+  "posicion": "Defensa",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "6559286053f37c02ddfdc8c4"
+  },
+  "nombre": "Ederson",
+  "apellido": "",
+  "NoCamisa": "31",
+  "posicion": "Guardameta",
+  "_idEquipos": "6559221d43887f8325a9ea2d"
+},{
+  "_id": {
+    "$oid": "6559291453f37c02ddfdc8c5"
+  },
+  "nombre": "Nicolas",
+  "apellido": "Jackson",
+  "NoCamisa": "15",
+  "posicion": "Delantero",
+  "_idEquipos": "6559227843887f8325a9ea2e"
+},{
+  "_id": {
+    "$oid": "6559295453f37c02ddfdc8c6"
+  },
+  "nombre": "Raheem",
+  "apellido": "Sterling",
+  "NoCamisa": "7",
+  "posicion": "Delantero",
+  "_idEquipos": "6559227843887f8325a9ea2e"
+},{
+  "_id": {
+    "$oid": "6559299053f37c02ddfdc8c7"
+  },
+  "nombre": "Cole",
+  "apellido": "Palmer",
+  "NoCamisa": "20",
+  "posicion": "Centrocampista",
+  "_idEquipos": "6559227843887f8325a9ea2e"
+},{
+  "_id": {
+    "$oid": "65592a2553f37c02ddfdc8ca"
+  },
+  "nombre": "Thiago",
+  "apellido": "Silva",
+  "NoCamisa": "6",
+  "posicion": "Defensa",
+  "_idEquipos": "6559299053f37c02ddfdc8c7"
+},{
+  "_id": {
+    "$oid": "65592a5953f37c02ddfdc8cb"
+  },
+  "nombre": "Robert",
+  "apellido": "Sanchez",
+  "NoCamisa": "1",
+  "posicion": "Guardameta",
+  "_idEquipos": "6559299053f37c02ddfdc8c7"
+},{
+  "_id": {
+    "$oid": "65592c6c53f37c02ddfdc8ce"
+  },
+  "nombre": "Reece",
+  "apellido": "James",
+  "NoCamisa": "24",
+  "posicion": "Defensa",
+  "_idEquipos": "6559299053f37c02ddfdc8c7"
+},{
+  "_id": {
+    "$oid": "65593074578daad4585cccd9"
+  },
+  "nombre": "Gabriel",
+  "apellido": "Martinelli",
+  "NoCamisa": "11",
+  "posicion": "Delantero",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "655930b9578daad4585cccda"
+  },
+  "nombre": "Buyako",
+  "apellido": "Saka",
+  "NoCamisa": "7",
+  "posicion": "Centrocampista",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "655930f5578daad4585cccdb"
+  },
+  "nombre": "Kai",
+  "apellido": "Havertz",
+  "NoCamisa": "29",
+  "posicion": "Centrocampista",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "65593148578daad4585cccdc"
+  },
+  "nombre": "Oleksandr",
+  "apellido": "Zinchenko",
+  "NoCamisa": "35",
+  "posicion": "Defensa",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "655931d1578daad4585cccdd"
+  },
+  "nombre": "William",
+  "apellido": "Saliba",
+  "NoCamisa": "2",
+  "posicion": "Defensa",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "65593223578daad4585cccde"
+  },
+  "nombre": "David",
+  "apellido": "Raya",
+  "NoCamisa": "22",
+  "posicion": "Guardameta",
+  "_idEquipos": "6559250f53f37c02ddfdc8bc"
+},{
+  "_id": {
+    "$oid": "655932e8578daad4585cccdf"
+  },
+  "nombre": "Heung-min",
+  "apellido": "Son",
+  "NoCamisa": "7",
+  "posicion": "Delantero",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "65593320578daad4585ccce0"
+  },
+  "nombre": "Brennan",
+  "apellido": "Johnson",
+  "NoCamisa": "22",
+  "posicion": "Delantero",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "6559335e578daad4585ccce1"
+  },
+  "nombre": "Pepe",
+  "apellido": "Matar Sarr",
+  "NoCamisa": "29",
+  "posicion": "Mediocampista",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "6559339b578daad4585ccce2"
+  },
+  "nombre": "Pierre-Emile",
+  "apellido": "Hogbjer",
+  "NoCamisa": "5",
+  "posicion": "Mediocampista",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "655933c7578daad4585ccce3"
+  },
+  "nombre": "Nelson",
+  "apellido": "Samedo",
+  "NoCamisa": "22",
+  "posicion": "Defensa",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "655933ef578daad4585ccce4"
+  },
+  "nombre": "Toti",
+  "apellido": "",
+  "NoCamisa": "24",
+  "posicion": "Defensa",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+},{
+  "_id": {
+    "$oid": "65593419578daad4585ccce5"
+  },
+  "nombre": "Jose",
+  "apellido": "Sa",
+  "NoCamisa": "1",
+  "posicion": "Guardameta",
+  "_idEquipos": "655925d253f37c02ddfdc8bd"
+}]

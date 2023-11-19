@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "655a4435fff3c5752393cc8f"
+  },
+  "_idEquipos": "655920d343887f8325a9ea2c",
+  "puesto": "1",
+  "nombreEquipo": "Liverpool",
+  "puntos": "20"
+},{
+  "_id": {
+    "$oid": "655a445dfff3c5752393cc90"
+  },
+  "_idEquipos": "6559221d43887f8325a9ea2d",
+  "puesto": "2",
+  "nombreEquipo": "Manchester City",
+  "puntos": "17"
+},{
+  "_id": {
+    "$oid": "655a448afff3c5752393cc91"
+  },
+  "_idEquipos": "6559250f53f37c02ddfdc8bc",
+  "puesto": "3",
+  "nombreEquipo": "Arsenal",
+  "puntos": "11"
+},{
+  "_id": {
+    "$oid": "655a44b1fff3c5752393cc92"
+  },
+  "_idEquipos": "655925d253f37c02ddfdc8bd",
+  "puesto": "4",
+  "nombreEquipo": "Tottenham",
+  "puntos": "8"
+},{
+  "_id": {
+    "$oid": "655a44d6fff3c5752393cc93"
+  },
+  "_idEquipos": "6559227843887f8325a9ea2e",
+  "puesto": "5",
+  "nombreEquipo": "Chelsea",
+  "puntos": "0"
+}]
